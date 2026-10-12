@@ -2,6 +2,13 @@
 
 Single-page IT portfolio built with React 19 and Vite.
 
+## Demo
+
+[![Portfolio preview](docs/preview.png)](docs/portfolio-demo.webm)
+
+▶ [Watch the walkthrough video](docs/portfolio-demo.webm) — a scroll through
+the hero, about, skills, projects, experience and contact sections.
+
 ## Scripts
 
 ```bash
